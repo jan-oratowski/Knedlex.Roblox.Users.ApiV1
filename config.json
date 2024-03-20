@@ -1,0 +1,6 @@
+{
+  "apiName": "RobloxUsersV1",
+  "netCoreProjectFile": true,
+  "targetFramework": "netstandard2.0",
+  "packageName": "Knedlex.Roblox.Users.ApiV1"
+}
