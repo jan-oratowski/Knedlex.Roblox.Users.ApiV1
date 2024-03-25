@@ -6,9 +6,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Knedlex.Roblox.Users.ApiV1"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Knedlex.Roblox.Users.ApiV1.Test", "src\Knedlex.Roblox.Users.ApiV1.Test\Knedlex.Roblox.Users.ApiV1.Test.csproj", "{19F1DEBC-DE5E-4517-8062-F000CD499087}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Knedlex.Roblox.Users.Example", "src\Knedlex.Roblox.Users.Example\Knedlex.Roblox.Users.Example.csproj", "{50BEB6FE-BEE1-43F9-912F-C532FF9D7C5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Knedlex.Roblox.Users.Example", "examples\Knedlex.Roblox.Users.Example\Knedlex.Roblox.Users.Example.csproj", "{50BEB6FE-BEE1-43F9-912F-C532FF9D7C5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knedlex.Roblox.Users.AzureFunction", "Knedlex.Roblox.Users.AzureFunction\Knedlex.Roblox.Users.AzureFunction.csproj", "{08801B19-A6D2-46E2-A36E-73C19E221D68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knedlex.Roblox.Users.AzureFunction", "examples\Knedlex.Roblox.Users.AzureFunction\Knedlex.Roblox.Users.AzureFunction.csproj", "{08801B19-A6D2-46E2-A36E-73C19E221D68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

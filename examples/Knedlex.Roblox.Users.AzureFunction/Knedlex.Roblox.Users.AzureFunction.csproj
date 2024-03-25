@@ -16,7 +16,7 @@
     <PackageReference Include="Microsoft.Azure.Functions.Worker.ApplicationInsights" Version="1.1.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\src\Knedlex.Roblox.Users.ApiV1\Knedlex.Roblox.Users.ApiV1.csproj" />
+    <ProjectReference Include="..\..\src\Knedlex.Roblox.Users.ApiV1\Knedlex.Roblox.Users.ApiV1.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Update="host.json">
