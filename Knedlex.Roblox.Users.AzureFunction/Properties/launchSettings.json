@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Knedlex.Roblox.Users.AzureFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7277",
+      "launchBrowser": false
+    }
+  }
+}
